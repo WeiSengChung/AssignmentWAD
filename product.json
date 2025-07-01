@@ -1,0 +1,213 @@
+//pic ask from xy.
+
+{
+    "categories": [
+      {
+        "name": "Men",
+        "items": {
+          "top": [
+            {
+              "productName": "Men's Classic T-shirt",
+              "image": "https://example.com/mens_classic_tshirt.jpg",
+              "price": "RM50",
+              "description": "A classic crew-neck T-shirt for men made with soft cotton fabric."
+            },
+            {
+              "productName": "Men's Long Sleeve",
+              "image": "https://example.com/mens_long_sleeve.jpg",
+              "price": "RM50",
+              "description": "Stylish long sleeve shirt with a comfortable fit for all-day wear."
+            },
+            {
+              "productName": "Men's Hoodie",
+              "image": "https://example.com/mens_hoodie.jpg",
+              "price": "RM50",
+              "description": "Warm hoodie with adjustable drawstrings, perfect for casual outings."
+            },
+            {
+              "productName": "Men's Sweatshirt",
+              "image": "https://example.com/mens_sweatshirt.jpg",
+              "price": "RM50",
+              "description": "Cozy sweatshirt with a fleece lining to keep you warm during chilly weather."
+            },
+            {
+              "productName": "Men's UT (Graphic T-shirt)",
+              "image": "https://example.com/mens_ut.jpg",
+              "price": "RM50",
+              "description": "Graphic T-shirt featuring unique designs, made for everyday wear."
+            }
+          ],
+          "bottom": [
+            {
+              "productName": "Men's Jeans",
+              "image": "https://example.com/mens_jeans.jpg",
+              "price": "RM50",
+              "description": "Classic fit jeans made from durable denim with a modern style."
+            },
+            {
+              "productName": "Men's Long Pants",
+              "image": "https://example.com/mens_long_pants.jpg",
+              "price": "RM50",
+              "description": "Comfortable long pants made with stretchable fabric for flexibility."
+            },
+            {
+              "productName": "Men's Shorts",
+              "image": "https://example.com/mens_shorts.jpg",
+              "price": "RM50",
+              "description": "Lightweight shorts, perfect for summer outings and sports activities."
+            },
+            {
+              "productName": "Men's Chinos",
+              "image": "https://example.com/mens_chinos.jpg",
+              "price": "RM50",
+              "description": "Versatile chinos with a slim fit, ideal for casual or semi-formal occasions."
+            },
+            {
+              "productName": "Men's Legging",
+              "image": "https://example.com/mens_legging.jpg",
+              "price": "RM50",
+              "description": "Stretch leggings for men, great for workouts or lounging at home."
+            }
+          ]
+        }
+      },
+      {
+        "name": "Women",
+        "items": {
+          "top": [
+            {
+              "productName": "Women's Casual T-shirt",
+              "image": "https://example.com/womens_casual_tshirt.jpg",
+              "price": "RM50",
+              "description": "Comfortable cotton T-shirt for women, perfect for casual wear."
+            },
+            {
+              "productName": "Women's Long Sleeve",
+              "image": "https://example.com/womens_long_sleeve.jpg",
+              "price": "RM50",
+              "description": "Elegant long sleeve shirt, designed with a tailored fit."
+            },
+            {
+              "productName": "Women's Hoodie",
+              "image": "https://example.com/womens_hoodie.jpg",
+              "price": "RM50",
+              "description": "Soft and cozy hoodie, ideal for layering on cooler days."
+            },
+            {
+              "productName": "Women's Sweatshirt",
+              "image": "https://example.com/womens_sweatshirt.jpg",
+              "price": "RM50",
+              "description": "Relaxed-fit sweatshirt with a brushed interior for added warmth."
+            },
+            {
+              "productName": "Women's UT (Graphic T-shirt)",
+              "image": "https://example.com/womens_ut.jpg",
+              "price": "RM50",
+              "description": "Trendy graphic T-shirt with vibrant prints, great for making a statement."
+            }
+          ],
+          "bottom": [
+            {
+              "productName": "Women's Jeans",
+              "image": "https://example.com/womens_jeans.jpg",
+              "price": "RM50",
+              "description": "Slim-fit jeans made with stretch denim for extra comfort."
+            },
+            {
+              "productName": "Women's Long Pants",
+              "image": "https://example.com/womens_long_pants.jpg",
+              "price": "RM50",
+              "description": "High-rise long pants with a chic design for both work and play."
+            },
+            {
+              "productName": "Women's Shorts",
+              "image": "https://example.com/womens_shorts.jpg",
+              "price": "RM50",
+              "description": "Classic shorts with a relaxed fit, perfect for warm-weather activities."
+            },
+            {
+              "productName": "Women's Chinos",
+              "image": "https://example.com/womens_chinos.jpg",
+              "price": "RM50",
+              "description": "Soft chinos with a flattering silhouette, ideal for any occasion."
+            },
+            {
+              "productName": "Women's Legging",
+              "image": "https://example.com/womens_legging.jpg",
+              "price": "RM50",
+              "description": "High-waisted leggings, perfect for yoga, running, or lounging."
+            }
+          ]
+        }
+      },
+      {
+        "name": "Kids",
+        "items": {
+          "top": [
+            {
+              "productName": "Kids' T-shirt",
+              "image": "https://example.com/kids_tshirt.jpg",
+              "price": "RM30",
+            "description": "Fun and playful T-shirt for kids, made with breathable cotton."
+          },
+          {
+            "productName": "Kids' Long Sleeve",
+            "image": "https://example.com/kids_long_sleeve.jpg",
+            "price": "RM30",
+            "description": "Soft and durable long sleeve shirt, perfect for active kids."
+          },
+          {
+            "productName": "Kids' Hoodie",
+            "image": "https://example.com/kids_hoodie.jpg",
+            "price": "RM30",
+            "description": "Cozy hoodie with a kangaroo pocket, great for chilly days."
+          },
+          {
+            "productName": "Kids' Sweatshirt",
+            "image": "https://example.com/kids_sweatshirt.jpg",
+            "price": "RM30",
+            "description": "Warm sweatshirt made for comfort and durability during playtime."
+          },
+          {
+            "productName": "Kids' UT (Graphic T-shirt)",
+            "image": "https://example.com/kids_ut.jpg",
+            "price": "RM30",
+            "description": "Vibrant graphic T-shirt for kids, featuring their favorite characters."
+          }
+        ],
+        "bottom": [
+          {
+            "productName": "Kids' Jeans",
+            "image": "https://example.com/kids_jeans.jpg",
+            "price": "RM30",
+            "description": "Durable jeans for kids, perfect for everyday adventures."
+          },
+          {
+            "productName": "Kids' Long Pants",
+            "image": "https://example.com/kids_long_pants.jpg",
+            "price": "RM30",
+            "description": "Comfortable long pants with an elastic waistband for easy movement."
+          },
+          {
+            "productName": "Kids' Shorts",
+            "image": "https://example.com/kids_shorts.jpg",
+            "price": "RM30",
+            "description": "Lightweight shorts, perfect for active play and warm weather."
+          },
+          {
+            "productName": "Kids' Chinos",
+            "image": "https://example.com/kids_chinos.jpg",
+            "price": "RM30",
+            "description": "Stylish chinos for kids, suitable for both casual and formal wear."
+          },
+          {
+            "productName": "Kids' Legging",
+            "image": "https://example.com/kids_legging.jpg",
+            "price": "RM30",
+            "description": "Stretchy leggings for kids, designed for comfort during play."
+          }
+        ]
+      }
+    }
+  ]
+}
