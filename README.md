@@ -1,4 +1,4 @@
-#Project members: [Chia XuanYing](https://github.com/xyingg0611) , [Ooi Chien How](https://github.com/chienhow29) , [Tan Aik Suan](https://github.com/AsTan118) , [Chung Wei Seng](https://github.com/WeiSengChung)
+# Project members: [Chia XuanYing](https://github.com/xyingg0611) , [Ooi Chien How](https://github.com/chienhow29) , [Tan Aik Suan](https://github.com/AsTan118) , [Chung Wei Seng](https://github.com/WeiSengChung)
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
